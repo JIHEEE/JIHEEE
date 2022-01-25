@@ -1,9 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
 
 <!-- ### 👋 Hi there 👋 -->
-<div align=center>
-   <h2> 👋 Hi, I’m Jihee Choi 👋 </h2> <br> 
-</div>
 
 <!--
 **JIHEEE/JIHEEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -65,7 +62,7 @@ Here are some ideas to get you started:
 </div>
 
 <br>
-<hr>
+
 
 <!-- ※ contact ※ -->
 <!--
