@@ -68,6 +68,7 @@ Here are some ideas to get you started:
 <hr>
 
 <!-- ※ contact ※ -->
+<!--
 <div align=center>
   <a href="mailto:choij928@gmail.com">
   <img
@@ -75,5 +76,5 @@ Here are some ideas to get you started:
   style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   </a>
 </div>
-
+-->
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
