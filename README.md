@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
+
 <!-- ### 👋 Hi there 👋 -->
 <div align=center>
    <h2> 👋 Hi, I’m Jihee Choi 👋 </h2> <br> 
@@ -73,3 +75,5 @@ Here are some ideas to get you started:
   style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   </a>
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
